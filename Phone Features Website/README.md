@@ -1,0 +1,2 @@
+# Phone Features Website using HTML, CSS and Javascript
+This Web Page design has a navigation bar at the top and the background color was styled using linear gradient. The features of the phone are displayed using two arrows pointing up and down. Javascript has been used to modify the functioning of the arrows such that the up arrow rotates the features in an anticlockwise direction whereas the down arrow scrolls through the features in a clockwise direction. Every click of the arrow rotates the content and displays anotehr feature of the phone. 
