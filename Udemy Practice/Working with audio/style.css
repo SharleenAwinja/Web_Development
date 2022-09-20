@@ -1,0 +1,15 @@
+body {
+    background-color: blueviolet;
+}
+
+.A {
+    border: solid 5px palevioletred;
+    width: 100px;
+    height: 90px;
+    margin-top: 20px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

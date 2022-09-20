@@ -1,0 +1,33 @@
+body {
+    background-color: crimson;
+}
+
+.button {
+    text-align: center;
+}
+
+#click {
+    text-align: center;
+}
+
+#over, #enter, #move {
+    border: solid 5px black;
+    width: 150px;
+    margin-top: 10px;
+    background-color: burlywood;
+}
+
+.text {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+#first-number, #second-number, #third-number {
+    text-align: center;
+}
+
+.events {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

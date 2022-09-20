@@ -1,0 +1,31 @@
+* {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+} 
+
+.main-div {
+    background-image: linear-gradient(to bottom right, purple, pink);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: fixed; /*this removed the scrolling and the white space at the bottom. if you don't remeber comment out to see*/
+    /*margin: 0;*/
+}
+
+.number {
+    /*display: flex;*/
+    /*margin: 0;*/
+    height: 100%;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1000px;
+    height: 100%;
+}

@@ -1,0 +1,43 @@
+body {
+    background-color: brown;
+    height: 100vh;
+}
+
+.new {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#new-button {
+    width: 200px;
+    height: 50px;
+    cursor: pointer; 
+    background-color: aqua;
+}
+
+.small {
+    font-size: 50px;
+}
+
+.big {
+    font-size: 100px;
+}
+
+.list {
+    width: 270px;
+}
+
+.hide {
+    display: none;
+    transform: translateX(-270px);
+    /*move 270px to the left*/
+}
+
+.show {
+    display: block;
+    transform: translateX(270px);
+    /* move 270px to the right*/
+}
